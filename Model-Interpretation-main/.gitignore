@@ -1,0 +1,18 @@
+#large storage of files manipulated(created when script is ran initially)
+HN_P2C_files/
+Data/
+
+#ignores all mlx files
+*.mlx
+
+#ignores venv files
+lib/
+bin/
+include/
+share/
+etc/
+pyvenv.cfg
+.venv/
+
+mlruns/
+
